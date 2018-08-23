@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Jeddah Guide</string>
+
+    <string name="tab_text_1">Historical</string>
+    <string name="tab_text_2">Education</string>
+    <string name="tab_text_3">Entertainment</string>
+    <string name="tab_text_4">Food</string>
+
+    <string name="kua">King AbdulAziz University</string>
+    <string name="effat">Effat University</string>
+    <string name="khayal_rest">Khayal Resturant</string>
+    <string name="waga_rest">Wagamama</string>
+    <string name="Faqiha">Faqiha Aquarium</string>
+    <string name="water">Jeddah Front Water</string>
+    <string name="mall">Red Sea Mall</string>
+    <string name="fountain">King Fahd Fountain</string>
+    <string name="museum">Nassif House Museum</string>
+
+
+    <string name="about_museum">Nasseef House or Nassif House is a historical structure in Al-Balad,
+        Jeddah, Saudi Arabia. As of 2009 it is a museum and cultural center which has special exhibits
+        and lectures given by historians</string>
+    <string name="about_fountain">King Fahd Fountain also known as the Jeddah Fountain, is a
+        fountain in Jeddah, Saudi Arabia, the tallest of its type in the world.</string>
+
+    <string name="about_KAU">was founded in 1967 in Jeddah, Saudi Arabia.
+        Established initially as a private university,in 1974 King Abdulaziz University was converted
+        to a public university by a resolution of the Council Ministers of Saudi Arabia.</string>
+    <string name="about_Effat"> is a private non-profit institution of higher education for women in Saudi Arabia,
+        operating under the umbrella of King Faisal Charitable Foundation. Effat University is strengthened by the
+        legacy of its founder, Effat Al Thunayyan, wife of the late King Faisal.</string>
+
+    <string name="aquarium">Aquarium with species from the Red Sea, plus dolphin shows, an auditorium and
+        sports club with a pool.</string>
+    <string name="jungle">Enduring amusement park offering a variety of rides, live lion shows, games and
+        a circus arena.</string>
+    <string name="red_sea"> is a shopping mall located in the northern suburb of Jeddah in the Kingdom of Saudi Arabia. 
+        The mall is located on the western side of the King Abdulaziz Road between the King Abdulaziz International 
+        Airport and the Red Sea coast.</string>
+    <string name="front_sea">The Jeddah seafront  includes the longest pedestrian bridge in the Kingdom,
+        connecting the Corniche and Prince Faisal bin Fahd Road.</string>
+    
+    <string name="khayal">Turkish cuisine is characterized by its simplicity, with many dishes, Turkish cooks
+        rely chiefly on the quality of the ingredients rather than on elaborate preparation. Ingredients and
+        dishes vary by region. Many dishes that were once regional, however, have proliferated with variations
+        throughout the country.</string>
+    <string name="wagamama">Wagamama is a British-headquartered restaurant chain, serving Asian food inspired
+        by the flavours of Japan.</string>
+
+
+</resources>
